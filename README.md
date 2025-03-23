@@ -228,7 +228,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Contact
 
 For questions or feedback, reach out to me at:
-- GitHub: mohits2806(https://github.com/mohits2806)
-- Email: mohitshaharwale01@gmail.com
+- GitHub: [mohits2806](https://github.com/mohits2806)
+- Email: [mohitshaharwale01@gmail.com](mailto://mohitshaharwale01@gmail.com)
 
 Happy habit tracking!
